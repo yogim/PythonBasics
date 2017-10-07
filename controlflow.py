@@ -17,8 +17,7 @@ else:
     print("b is greater than a")    
 
 
-a= 3
-
+a=3
 if a>b:
     print("a is greater than b")
 elif a<b : 
@@ -35,7 +34,7 @@ for w in words:
 for i in range(5):
     print(i)
   # range(start, end)
- for i in range(5,10):
+for i in range(5,10):
     print(i)
    #range(start,end, increment)
 for i in range(10,100,10):
